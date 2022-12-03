@@ -140,7 +140,7 @@ h4 {
     width: 40px;
     padding: 12px 18px;
     z-index: 2;
-      background-image: url("https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/premium/play-dynamic-premium.png");
+      background-image: url("./src/play.png");
       background-repeat: no-repeat!important;
       background-position: center;
       background-size: 16px;
@@ -150,9 +150,9 @@ h4 {
   }
 
   .play {
-    background-image: url("https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/premium/play-dynamic-premium.png");
+    background-image: url("./src/play.png");
   }
   .pause {
-     background-image: url(https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/premium/pause-dynamic-premium.png)!important;
+     background-image: url("./src/pause.png")!important;
   }
   
